@@ -18,4 +18,4 @@ Once the app is running, you can:
 - Reset: Click the "Reset" button to reset the counter to 0.
 
   # Vercel link
-  
+  https://counter-react-rouge.vercel.app/
